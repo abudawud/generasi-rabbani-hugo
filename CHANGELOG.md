@@ -1,6 +1,7 @@
 ## 27 Mar 2023
 
-Update theme
+- Update theme
+- publish 2 notes
 
 ## 26 Mar 2023
 

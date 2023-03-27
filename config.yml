@@ -89,7 +89,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/abudawud/generasi-rabbani"
+        URL: "https://github.com/abudawud/generasi-rabbani/blob/main"
         Text: "Saran Perbaikan" # edit text
         appendFilePath: true # to append file path to Edit link
 

@@ -2,6 +2,8 @@
 
 Alhamdulillah, semoga Allah berikan Istiqomah 
 
+- Update beberapa catatan kajian
+
 ## 27 Mar 2023
 
 - Update theme

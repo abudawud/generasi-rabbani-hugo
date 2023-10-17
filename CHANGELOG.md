@@ -1,3 +1,7 @@
+## 17 Okt 2023
+
+Alhamdulillah, semoga Allah berikan Istiqomah 
+
 ## 27 Mar 2023
 
 - Update theme
